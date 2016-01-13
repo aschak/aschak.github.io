@@ -2157,13 +2157,18 @@
 				color: rgba(255, 255, 255, 0.75);
 			}
 
-				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
+			  #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
 				}
 
+				#main >section.dark h2 {
+					color: black
+				}
+
 				#main > section.dark strong {
-					color: #fff;
+					color: black;
 					border-color: inherit;
+					font-weight: 400;
 				}
 
 				#main > section.dark a {
@@ -2182,8 +2187,8 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-color: whitesmoke;
+				/*background-image: url("../../images/banner.jpg");*/
 			}
 
 			#main > section.two {
@@ -2217,13 +2222,13 @@
 		/* Footer */
 
 			#footer {
-				margin-left: 300px;
+				margin-left: auto;
 			}
 
 		/* Main */
 
 			#main {
-				margin-left: 300px;
+				margin-left: auto;
 			}
 
 	}

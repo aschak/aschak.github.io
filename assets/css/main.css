@@ -2222,13 +2222,13 @@
 		/* Footer */
 
 			#footer {
-				margin-left: auto;
+				margin-left: left;
 			}
 
 		/* Main */
 
 			#main {
-				margin-left: auto;
+				margin-left: left;
 			}
 
 	}
@@ -2311,7 +2311,7 @@
 		/* Main */
 
 			#main {
-				margin-left: 20%;
+				margin-left: 0%;
 			}
 
 	}

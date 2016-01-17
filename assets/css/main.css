@@ -1736,6 +1736,10 @@
 			width: 100%;
 		}
 
+		.image.fit:hover {
+			opacity: 0.5;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;

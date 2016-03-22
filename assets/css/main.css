@@ -2000,6 +2000,15 @@
 
 /* Header */
 
+	#resume-link {
+		color: black !important;
+		font-weight: 400;
+	}
+
+	#resume-link:hover {
+		opacity: 0.5;
+	}
+
 	#header {
 		position: fixed;
 		top: 0;

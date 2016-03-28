@@ -1,0 +1,77 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+
+
+
+/* Splash */
+
+.page-title-2 {
+  height: 700px;
+}
+
+#resume-link:hover  h3{
+  color: black;
+}
+
+/* Portfolio Section */
+
+#portfolio-header {
+  color: white;
+}
+
+.project .image-tile {
+  height: 267px;
+}
+
+.hover-tile:hover .hover-state {
+  padding-top: 32px;
+}
+
+
+/* About Me */
+
+#about-me-photo {
+  width: 43%;
+  left: 300px;
+}
+
+@media (min-width: 992px) {
+  .col-md-6 {
+    width: 60%
+  }
+
+  .col-md-5 {
+    width: 41%;
+  }
+}
+
+#about-me {
+  font-size: 24px;
+}
+
+#about-me-header {
+  font-size: 44px;
+}
+
+
+/* Footer */
+
+.bold {
+  font-weight: 500 !important;
+}
+
+.icon {
+  padding-right: 45px;
+}
+
+.pt48 {
+  padding-top: 0px;
+}
+
+#footer-links {
+  bottom: 70px;
+}
+
+i:hover {
+  color: black !important;
+}

@@ -126,8 +126,8 @@ i:hover {
   z-index: -1;
 }
 .p-3{
-  animation-duration:20s;
-  top:20%;
+  animation-duration:15s;
+  top:-15%;
   z-index: -1;
 }
 .p-4{

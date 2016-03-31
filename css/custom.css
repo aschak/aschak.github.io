@@ -35,13 +35,24 @@
 /* About Me */
 
 #about-me-photo {
-  width: 43%;
-  left: 300px;
+  width: 63%;
 }
 
 @media (min-width: 992px) {
   .col-md-6 {
     width: 60%
+  }
+
+  .col-md-offset-1 {
+    margin-left: 3%;
+  }
+
+  .col-md-7 {
+    width: 40%;
+  }
+
+  .col-md-4 {
+    width: 49%;
   }
 
   .col-md-5 {
@@ -55,6 +66,10 @@
 
 #about-me-header {
   font-size: 44px;
+}
+
+.col-md-4 p {
+  font-size: 20px;
 }
 
 

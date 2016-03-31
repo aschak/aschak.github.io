@@ -75,6 +75,11 @@
 
 /* Footer */
 
+#footer-header {
+  padding-right: 8%;
+  letter-spacing: 4px;
+}
+
 .bold {
   font-weight: 500 !important;
 }
